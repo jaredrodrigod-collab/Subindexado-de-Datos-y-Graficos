@@ -6,6 +6,8 @@ output:
   rmdformats::material:
     highlight: kate
     cards: false
+    self_contained: true
+---
 ---
 
 
@@ -383,7 +385,7 @@ contour(x,y,z, add=TRUE)
 #### Ejercicios:
 
 
-![Ejercicios para graficar superficies y contornos en R.](ejercicios.png)
+
 
 #### 49. $z = x + y$
 ```{r eval=T }
